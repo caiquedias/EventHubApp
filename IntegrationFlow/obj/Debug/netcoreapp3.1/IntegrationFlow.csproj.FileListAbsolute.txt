@@ -1,0 +1,15 @@
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.exe
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.csprojAssemblyReference.cache
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.AssemblyInfoInputs.cache
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.AssemblyInfo.cs
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.csproj.CoreCompileInputs.cache
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.deps.json
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.runtimeconfig.json
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.runtimeconfig.dev.json
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.dll
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\IntegrationFlow.pdb
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.csproj.CopyComplete
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.dll
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.pdb
+C:\Projetos\Master\EventHubsSender\IntegrationFlow\obj\Debug\netcoreapp3.1\IntegrationFlow.genruntimeconfig.cache

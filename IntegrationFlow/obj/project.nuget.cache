@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kY2FM/lNAnL500K9SxzLForQoUTb+GvNjG09GoMCmah85TSl0KqSLqCFjPbued9d/ox7eTOUwVRhmaRiYzL4og==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Master\\EventHubsSender\\IntegrationFlow\\IntegrationFlow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
