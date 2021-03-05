@@ -5,10 +5,9 @@ using System.Text;
 namespace IntegrationFlow.Models
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
-    public class TicketCustomFields
+    public class TicketMODEL
     {
-        public string custom_text { get; set; }
-        public bool? auto_checkbox { get; set; }
+        public TicketDetail ticket { get; set; }
     }
 
     public class Attachment
@@ -46,7 +45,7 @@ namespace IntegrationFlow.Models
         public bool is_escalated { get; set; }
         public string description { get; set; }
         public string description_text { get; set; }
-        public TicketCustomFields custom_fields { get; set; }
+        public List<Dictionary<string,string>> custom_fields { get; set; }
         public DateTime created_at { get; set; }
         public DateTime updated_at { get; set; }
         public int urgency { get; set; }
@@ -57,11 +56,4 @@ namespace IntegrationFlow.Models
         public bool deleted { get; set; }
         public List<Attachment> attachments { get; set; }
     }
-
-    public class TicketMODEL
-    {
-        public TicketDetail ticket { get; set; }
-    }
-
-
 }

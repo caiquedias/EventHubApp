@@ -9,6 +9,11 @@
     <PackageReference Include="Azure.Messaging.EventHubs" Version="5.3.0-beta.1" />
     <PackageReference Include="Azure.Messaging.EventHubs.Processor" Version="5.3.0-beta.1" />
     <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.0.0" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntegrationFlow\IntegrationFlow.csproj" />
   </ItemGroup>
 
 </Project>

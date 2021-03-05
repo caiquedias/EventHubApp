@@ -6776,7 +6776,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Azure.Messaging.EventHubs.Processor >= 5.3.0-beta.1",
-      "Microsoft.Azure.ServiceBus >= 5.0.0"
+      "Microsoft.Azure.ServiceBus >= 5.0.0",
+      "System.Linq >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -6829,6 +6830,10 @@
           "Microsoft.Azure.ServiceBus": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "System.Linq": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         },
         "imports": [
@@ -6846,7 +6851,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

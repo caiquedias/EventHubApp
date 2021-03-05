@@ -31,4 +31,7 @@ C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\Micro
 C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\IntegrationFlow.exe
+C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\IntegrationFlow.dll
+C:\Projetos\Master\EventHubsSender\EventHubsSender\bin\Debug\netcoreapp3.1\IntegrationFlow.pdb
 C:\Projetos\Master\EventHubsSender\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
