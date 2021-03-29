@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8+gO6BoaLvxMPMVxf6d+i8tP3FICK4ihlnUFGVjupaMqZn2FIoiAkf61re2Bio7/vNqxShT4E0Mr0gPl99SdFw==",
+  "dgSpecHash": "5x3ahVrjYxLiaUo6wCs57WZu40rgn2ZdselVh4b4qazS8FGrn1berRaM6Q0RHKJMWQIM+1/ort17rcepN2QLZg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Master\\EventHubsSender\\EventHubsSender\\EventHubsSender.csproj",
   "expectedPackageFiles": [

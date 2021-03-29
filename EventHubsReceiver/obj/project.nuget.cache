@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l8hZ2YlnE/kc0EXUCC8WcK0OptDffH39OMauQsxgLBMEDaDye5XF51jjRjvO/tS6OpaHuzktHmrZFkNWyHN93w==",
+  "dgSpecHash": "ma/amDsZtaiRCKJLjGD6RARX7LNNPjJ6j84MH5s7vrG/aO6d4nJXrppP20fS7MvtisaWmYsZ443ZCvuAnyT/dg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Master\\EventHubsSender\\EventHubsReceiver\\EventHubsReceiver.csproj",
   "expectedPackageFiles": [

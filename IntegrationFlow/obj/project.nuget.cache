@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KPWgYloYaU5pu93R6BYwcXekjTv8XdtEq9ACpHAo6eiLEKpGIMA7zL83ezq5WzX19cIwEkbrvU9B/WnYoJpghg==",
+  "dgSpecHash": "WSUyRHP+tcnN8ZNjJxZXnWrFG5jOeF7gDD6ZfooWZCZK9ihkSl93nrpfsRXzvt5PyVDxKjQFtoUZqOzFDaYWtw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Master\\EventHubsSender\\IntegrationFlow\\IntegrationFlow.csproj",
   "expectedPackageFiles": [
