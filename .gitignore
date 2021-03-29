@@ -3,6 +3,7 @@
 Thumbs.db
 #Ignore files built by Visual Studio
 *.obj
+*/*.obj
 *.exe
 *.pdb
 *.user
@@ -30,3 +31,5 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/.vs/EventHubsSender/DesignTimeBuild/
+/EventHubsReceiver/obj/
