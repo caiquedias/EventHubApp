@@ -32,3 +32,6 @@ _ReSharper*/
 packages/
 /.vs/EventHubsSender/DesignTimeBuild/
 /EventHubsReceiver/obj/
+/EventHubsSender/bin/
+/.vs/
+/EventHubsReceiver/obj/
