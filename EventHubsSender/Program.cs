@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Azure.Messaging.EventHubs;
@@ -20,9 +21,11 @@ namespace EventHubsSender
 
         static async Task Main()
         {
-            //await SendWeatherEvent();
-            await CreateEvent(TicketEvent.Create());
-            Console.WriteLine("Evento criado, por favor, continue os testes");
+            List<int> TicketList = new List<int> { 106960, 106968, 106969, 106970 };
+            foreach(int item in TicketList)
+                await CreateEvent(TicketEvent.Create(item));
+
+            Console.WriteLine("Eventos criados, por favor, continue os testes");
             Console.Read();
         }
 

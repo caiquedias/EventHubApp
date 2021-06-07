@@ -6,13 +6,13 @@ namespace EventHubsSender
 {
     public static class TicketEvent
     {
-        public static CreateTicketMODEL Create()
+        public static CreateTicketMODEL Create(int ticketNumber)
         {
             try
             {
                 CreateTicketMODEL ticket = new CreateTicketMODEL()
                 {
-                    ticket_id = 96290,
+                    ticket_id = ticketNumber,
                     reply = "Ticket Está sendo FECHADO para fim de testes.",
                     status = 5,
                     priority = 1,
